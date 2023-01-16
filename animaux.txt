@@ -4,4 +4,3 @@ tigre
 lapin
 ours
 fish
-
